@@ -1,0 +1,48 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-11-09 15:22:03.296189",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "aaa",
+  "bbb",
+  "ccc",
+  "number"
+ ],
+ "fields": [
+  {
+   "fieldname": "aaa",
+   "fieldtype": "Data",
+   "label": "aaa"
+  },
+  {
+   "fieldname": "bbb",
+   "fieldtype": "Data",
+   "label": "bbb"
+  },
+  {
+   "fieldname": "ccc",
+   "fieldtype": "Data",
+   "label": "ccc"
+  },
+  {
+   "fieldname": "number",
+   "fieldtype": "Int",
+   "label": "Number"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-11-09 15:29:35.233668",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "Child Doc",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
